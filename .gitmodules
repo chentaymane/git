@@ -1,0 +1,6 @@
+[submodule "work/hello"]
+	path = work/hello
+	url = https://github.com/chentaymane/hello.git
+[submodule "work/cloned_hello"]
+	path = work/cloned_hello
+	url = https://github.com/chentaymane/cloned_hello.git
