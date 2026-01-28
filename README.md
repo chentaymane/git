@@ -28,7 +28,6 @@ work/
 │   └── README.md
 ├── cloned_hello/
 ├── hello.git/ (bare repository)
-└── README.md (this documentation)
 ```
 
 ## Instructions
